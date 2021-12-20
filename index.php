@@ -368,14 +368,14 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="info col-md-6 col-sm-6" style="text-align:center ">
+                            <div class="info col-md-6 col-sm-6" style="text-align:center padding-top:0px">
                                 <ul>
                                     <li>
                                     <h4><i class="fa fa-phone"></i>Telephone</h4>0813-3606-6210
                                     </li>
                                 </ul>
                             </div>
-                            <div class="info col-md-6 col-sm-6" style="text-align:center ">
+                            <div class="info col-md-6 col-sm-6" style="text-align:center padding-top:0px">
                                 <ul>
                                     <li>
                                     <h4><i class="fa fa-envelope"></i>Email</h4><a href = "mailto: njajanseklur@gmail.com">njajanseklur@gmail.com</a>
